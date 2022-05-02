@@ -1,10 +1,9 @@
+import { Widget } from "./components/Widget"
 
 function App() {
 
   return (
-    <div >
-      <button>Tet</button>
-    </div>
+   <Widget/>
   )
 }
 
